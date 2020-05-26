@@ -8,8 +8,10 @@ output:
 ---
 
 <code>
-[...]Programar: son las cosas que comprendemos tan bien como para enseñarselas a una máquina[...]
-        -Knuth
+
+[...] Programar: son las cosas que comprendemos tan bien como para enseñarselas a una máquina [...]
+                                                     -Knuth
+                                                     
 ´´´
 </code>
 
