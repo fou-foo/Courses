@@ -3,7 +3,8 @@
                                                          -Knuth
                                                          
 
-\#Programando en python 3
+Programando en python 3
+=======================
 
 Prerrequisitos: - Conocimientos de un lenguaje compilado o interpretado.
 - Conocimientos con la filosofía POO.
