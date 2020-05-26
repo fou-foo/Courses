@@ -1,9 +1,7 @@
-<code>
 
-\[…\] Programar: son las cosas que comprendemos tan bien como para
-enseñarselas a una máquina \[…\] -Knuth
-
-</code>
+    [...] Programar: son las cosas que comprendemos tan bien como para enseñarselas a una máquina [...]
+                                                         -Knuth
+                                                         
 
 \#Programando en python 3
 
